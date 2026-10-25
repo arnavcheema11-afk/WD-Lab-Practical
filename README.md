@@ -1,4 +1,4 @@
-# WD Lab Practical — Experiments 1–9
+# WD Lab Practical — Experiments 1–7
 
 Based on the supplied `WD FILE NEW.pdf`.
 
